@@ -1,5 +1,5 @@
 import os
-dir="files" #direction of folder where lines are counted
+dir="files" #directory of folder where lines are counted
 extensions = [".cs"] #list containing files you want to apply this code on, by extension
 COUNT = 0
 count=0
